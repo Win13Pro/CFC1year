@@ -9,7 +9,7 @@ This is a static website project created for the first anniversary celebration o
 This project contains three main pages showcasing the development history, statistics, and management team information of the ColorfulCraft server for its first anniversary.
 
 # 文件结构 / File Structure
-``
+```
 ColorfulCraft-Anniversary-Website/
 │
 ├── index.html          # 主页面，包含服务器发展历程和数据统计
@@ -24,7 +24,7 @@ ColorfulCraft-Anniversary-Website/
 │                      # QQ group members photo
 └── README.md           # 项目说明文件
 │                      # Project description file
-``
+```
 # 功能特点 / Features
 响应式设计，适配不同屏幕尺寸
 
