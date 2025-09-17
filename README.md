@@ -13,17 +13,22 @@ This project contains three main pages showcasing the development history, stati
 ColorfulCraft-Anniversary-Website/
 │
 ├── index.html          # 主页面，包含服务器发展历程和数据统计
-│                      # Main page, containing server development history and statistics
+|                      # Main page, containing server development history and statistics
+|
 ├── level.html          # 存档列表页面，展示服务器历史存档情况
 │                      # Archive list page, showing server's historical archive status
+|
 ├── players.html        # 玩家合照页面，展示QQ群群员合照
 │                      # Player group photo page, showing QQ group members photo
+|
 ├── logo.png            # 服务器Logo
 │                      # Server Logo
+|
 ├── players.jpg         # QQ群群员合照图片
 │                      # QQ group members photo
+|
 └── README.md           # 项目说明文件
-│                      # Project description file
+                       # Project description file
 ```
 # 功能特点 / Features
 响应式设计，适配不同屏幕尺寸
